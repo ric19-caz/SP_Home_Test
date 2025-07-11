@@ -78,10 +78,10 @@
 	- Priority Reflected on the card
 	- Task cards are ordered by due date and time as old tasks appear first
 	- Overdue tasks show date and time on red color
+ 	- Proprity Level colors
 	- Completed Date for complete tasks
 	
-
-## Task Completion:
+##Task Completition:
 
 	- Complete a task from the task list
 	- Mark task as incomplete after it was completed
